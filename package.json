@@ -1,0 +1,23 @@
+{
+  "name": "node_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "noticias.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucenacaio/node_js.git"
+  },
+  "author": "Caio Lucena Medeiros",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucenacaio/node_js/issues"
+  },
+  "homepage": "https://github.com/lucenacaio/node_js#readme",
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "express": "^4.15.2"
+  }
+}
