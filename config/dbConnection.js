@@ -2,10 +2,10 @@ var mysql = require('mysql');
 
 var connMySQL = function() {
     return mysql.createConnection({
-        host: 'hostBD',
-        user: 'userBD',
-        password: 'passwordDB',
-        database: 'database'
+        host: 'sql10.freemysqlhosting.net',
+        user: 'sql10166767',
+        password: 'yAe6PPxjr7',
+        database: 'sql10166767'
     });
 }
 
